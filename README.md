@@ -1,0 +1,1 @@
+# Simplemente descargar el archivo y correr el 'main' en Visual Studio Code. Recuerda tener instalado "requests" en VSC, si no lo tienes simplemente poner "pip install requests" en la barra de comando y estaras listo.
