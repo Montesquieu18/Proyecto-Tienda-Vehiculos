@@ -1,0 +1,22 @@
+[
+    {
+        "cliente_cedula": null,
+        "cliente_rif": "12345678",
+        "venta_id": 0,
+        "monto_pago": 179.2548,
+        "metodo_pago": "Pago m\u00f3vil",
+        "moneda_pago": "Bol\u00edvares",
+        "estado": true,
+        "fecha": "2024-11-17 10:29:50"
+    },
+    {
+        "cliente_cedula": null,
+        "cliente_rif": "12345678",
+        "venta_id": 0,
+        "monto_pago": 179.2548,
+        "metodo_pago": null,
+        "moneda_pago": null,
+        "estado": false,
+        "fecha": "2024-12-02 10:29:50"
+    }
+]

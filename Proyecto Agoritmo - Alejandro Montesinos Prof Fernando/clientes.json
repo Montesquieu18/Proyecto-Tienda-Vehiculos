@@ -1,0 +1,13 @@
+[
+    {
+        "tipo": "Juridico",
+        "correo": "maria@gmail.com",
+        "direccion": "caraca",
+        "telefono": "04123456565",
+        "razon_social": "unimet",
+        "rif": "12345678",
+        "nombre_contacto": "Marta Gonzales",
+        "telf_contacto": "04243213232",
+        "correo_contacto": "Marta@gmail.com"
+    }
+]

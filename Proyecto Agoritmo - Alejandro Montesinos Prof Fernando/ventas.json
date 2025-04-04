@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "fecha": "2024-11-17",
+        "cliente_cedula": null,
+        "cliente_rif": "12345678",
+        "productos": [
+            {
+                "id": 2,
+                "cantidad": 4
+            },
+            {
+                "id": 32,
+                "cantidad": 2
+            }
+        ],
+        "metodo_pago": "Cr\u00e9dito",
+        "metodo_envio": "Zoom",
+        "subtotal": 309.06,
+        "descuento": 0,
+        "iva": 49.449600000000004,
+        "igtf": 0,
+        "total": 358.5096
+    }
+]

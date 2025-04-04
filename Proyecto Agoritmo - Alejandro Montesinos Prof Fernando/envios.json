@@ -1,0 +1,13 @@
+[
+    {
+        "cliente_cedula": null,
+        "cliente_rif": "12345678",
+        "venta_id": 0,
+        "servicio_envio": "Zoom",
+        "costo_servicio": null,
+        "nombre_motorizado": null,
+        "telefono_motorizado": null,
+        "placa_motorizado": null,
+        "fecha": "2024-11-17"
+    }
+]
